@@ -1,0 +1,17 @@
+name: Invitation
+
+on:
+  push:
+    branches: master
+
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite contributor to the organization
+        uses: lekterable/inclusive-organization-action@v1.1.0
+        with:
+          organization: "Int3rnal-Developer-Preview"
+          comment: "Hey there, Congrats upon being invited into our team. :)"
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
