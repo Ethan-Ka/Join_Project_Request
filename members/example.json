@@ -1,0 +1,10 @@
+{
+  "username": "ExampleUsername",
+  "projects": ["Currently Running Project Names"],
+  "about": {
+    "links": ["Link to your previous work", "ETC"],
+    "roles": ["Graphics Artist", "Writer", "ETC"],
+    "values": "Short answer of what values you would add"
+  }
+  "timezone": "GMT +00:00"
+}
