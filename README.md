@@ -27,6 +27,7 @@ Use your `github username`
 ### Projects
 Currently Available Projects that you can join are:
  - `mutter` ~ A freemium chatting application
+ - `windmill` ~ The developer suite of tools to simplify the boring stuff
 
 ### About
 
