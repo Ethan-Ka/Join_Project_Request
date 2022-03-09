@@ -1,6 +1,6 @@
 {
   "username": "BobTheBirdCodar",
-  "projects": ["JSIS"],
+  "projects": ["mutter", "windmill"],
   "about": {
     "links": ["Can't add any, mostly private projects"],
     "roles": ["Back-end", "C++ Dev", "Game Dev"],
