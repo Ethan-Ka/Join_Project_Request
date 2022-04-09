@@ -1,0 +1,9 @@
+{
+    "username": "thedankboi",
+    "projects": ["trac3r.thedankboi.tk", "thedankboi.tk"],
+    "about": {
+      "links": ["https://ncrypt.thedankboi.repl.co/"],
+      "roles": ["Designer", "Front End", "Back End", "A bit of everything"]
+    },
+    "timezone": "CST -06:00"
+  }
